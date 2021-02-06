@@ -1,5 +1,5 @@
 ---
-title: 'Hello Friend '
+title: Hello Friend 日本語
 date: '1986-09-17'
 author: Elliot
 cover: img/hello.jpg
